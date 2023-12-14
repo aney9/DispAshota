@@ -1,0 +1,14 @@
+C:\Users\Тимофей\source\repos\dispashopta\dispashopta\bin\Debug\net6.0\dispashopta.exe
+C:\Users\Тимофей\source\repos\dispashopta\dispashopta\bin\Debug\net6.0\dispashopta.deps.json
+C:\Users\Тимофей\source\repos\dispashopta\dispashopta\bin\Debug\net6.0\dispashopta.runtimeconfig.json
+C:\Users\Тимофей\source\repos\dispashopta\dispashopta\bin\Debug\net6.0\dispashopta.dll
+C:\Users\Тимофей\source\repos\dispashopta\dispashopta\bin\Debug\net6.0\dispashopta.pdb
+C:\Users\Тимофей\source\repos\dispashopta\dispashopta\obj\Debug\net6.0\dispashopta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тимофей\source\repos\dispashopta\dispashopta\obj\Debug\net6.0\dispashopta.AssemblyInfoInputs.cache
+C:\Users\Тимофей\source\repos\dispashopta\dispashopta\obj\Debug\net6.0\dispashopta.AssemblyInfo.cs
+C:\Users\Тимофей\source\repos\dispashopta\dispashopta\obj\Debug\net6.0\dispashopta.csproj.CoreCompileInputs.cache
+C:\Users\Тимофей\source\repos\dispashopta\dispashopta\obj\Debug\net6.0\dispashopta.dll
+C:\Users\Тимофей\source\repos\dispashopta\dispashopta\obj\Debug\net6.0\refint\dispashopta.dll
+C:\Users\Тимофей\source\repos\dispashopta\dispashopta\obj\Debug\net6.0\dispashopta.pdb
+C:\Users\Тимофей\source\repos\dispashopta\dispashopta\obj\Debug\net6.0\dispashopta.genruntimeconfig.cache
+C:\Users\Тимофей\source\repos\dispashopta\dispashopta\obj\Debug\net6.0\ref\dispashopta.dll
